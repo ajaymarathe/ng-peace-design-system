@@ -1,7 +1,7 @@
 # NG Peace Design System
-Hi there, NG Peace Design System is open souce UI-KIT for Angular lovers based on Bootcatch Peace Theme thanks :)
+NG Peace Design System is  Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/ng-peace-design-system.svg)](https://www.npmjs.com/package/ng-peace-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-peace-design-system.svg)](https://www.npmjs.com/package/ng-peace-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -18,15 +18,13 @@ Hi there, NG Peace Design System is open souce UI-KIT for Angular lovers based o
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-peace-design-system --save
+
+OR
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/ng-peace-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage
