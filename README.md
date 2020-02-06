@@ -6,6 +6,7 @@ NG Peace Design System is  Coded, Written & Published By Bootcatch Based on Angu
 
 ## Table of Contents
 
+* [Documentation](#documentation)
 * [First-shot](#first-shot)
 * [Quick Start](#quick-start)
 * [Usage](#usage)
@@ -13,8 +14,11 @@ NG Peace Design System is  Coded, Written & Published By Bootcatch Based on Angu
 * [Author](#author)
 * [Copyright and License](#copyright-and-license)
 
+## Documentation
+The Documentation for NG-APOLLO DESIGN SYSTEM is hosted on [Bootcatch-blog](http://blog.bootcatch.com/post/angular-components-based-design-system-is-based-on-bootcatch-themes-and-angular).
+
 ## First Shot
-[![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-peace.png)](http://preview.bootcatch.com/ng-peace-design-system)
+[![NG-PEACE-DESIGN-SYSTEM](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-peace.png)](http://preview.bootcatch.com/ng-peace-design-system)
 
 ## Quick Start
 ```
@@ -29,8 +33,8 @@ $ git clone https://github.com/ajaymarathe/ng-peace-design-system.git
 
 ## Usage
 
-After downloading, you can do whatever you want to do, like you can modify all the componenets and css and then make awesome templates as you want.
-hope this will help you.
+After download you can simply import all your components in your `app.module.ts` and then you ready to use.
+- [Read Docs](http://blog.bootcatch.com/post/angular-components-based-design-system-is-based-on-bootcatch-themes-and-angular)
 
 ## About
 
@@ -40,8 +44,8 @@ So download and use for your next project, thanks.
 
 All the free ui-kit & templateS on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/ng-peace-design-system
-* http://bootcatch.com/ui_kits
+* [Preview](http://preview.bootcatch.com/ng-peace-design-system)
+* [UI-KIT](http://bootcatch.com/ui_kits)
 
 Fully coded UI-kits based on Bootstrap, Angular, Vue, React, Html, Sass.
 
